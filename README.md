@@ -102,9 +102,21 @@
 
 ---
 ### 📊 **GitHub Stats**
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rith-19&theme=dark&hide_border=false&include_all_commits=true&count_private=true) #&layout=compact
-![](https://github-readme-stats.vercel.app/api?username=rith-19&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=rith-19&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rith-19&layout=donut&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=rith-19&theme=dark&hide_border=false&include_all_commits=true&count_private=true#&layout=compact)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---
