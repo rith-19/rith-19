@@ -1,15 +1,121 @@
+<h1 align="center">Hi 👋, I'm Rithish R</h1>
+<h3 align="center">🤖 AI/ML Engineer | Just Another Human Training Robots to Replace Me</h3>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rithish.ravi.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ri_thi_zz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rithishravi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22734498) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rithishkumarravi2@gmail.com) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat&logo=jinja&logoColor=black) ![Handlebars](https://img.shields.io/badge/Handlebars-%23000000?style=flat&logo=Handlebars.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rith-19&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rith-19&theme=dark&hide_border=false)<br/>
+
+---
+
+### 🌟 **About Me**
+- 🧠 Dedicated **AI/ML Engineer** with a passion for solving real-world problems using data and intelligent systems.
+- 🤖 Skilled in developing, training, and deploying **machine learning and deep learning models** across various domains.
+- 📊 Fluent in **data analysis**, **feature engineering**, and **model optimization** — translating raw data into smart decisions.
+- 🛠️ I build with **Python**, **PyTorch**, **TensorFlow**, and **scikit-learn**, and I don't trust a model until I’ve plotted its loss curve.
+- 🔍 Actively exploring **LLMs**, **NLP**, and **generative AI**, with hands-on experience in **prompt engineering** and **fine-tuning**.
+- 📦 I ship models, not just notebooks — with tools like **FastAPI**, **Docker**, and a touch of caffeine ☕.
+- 📈 Always learning and exploring the latest trends in **AI research**, tools, and MLOps best practices.
+
+
+
+
+---
+
+### 🛠️ **Tech Stack & Tools**
+#### 🖥️ **Programming Languages**
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+---
+
+### 📚 Core ML & Data Science Libraries
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
+
+---
+
+### 🤖 Deep Learning Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+
+---
+
+### 🧬 LLM Fine-Tuning & RLHF
+![Transformers](https://img.shields.io/badge/HF%20Transformers-FE7A16?style=flat&logo=huggingface&logoColor=black)
+![PEFT](https://img.shields.io/badge/PEFT-FFD21F?style=flat&logo=huggingface&logoColor=black)
+![LoRA](https://img.shields.io/badge/LoRA-FFB6C1?style=flat&logo=buffer&logoColor=black)
+![RLHF](https://img.shields.io/badge/RLHF-00C853?style=flat&logo=openaigym&logoColor=white)
+![BitsAndBytes](https://img.shields.io/badge/BitsAndBytes-00BFFF?style=flat&logo=buffer&logoColor=white)
+
+---
+
+### 🌐 LLM Providers
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=flat&logo=anthropic&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-FE5F55?style=flat&logo=lightning&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FEC53A?style=flat&logo=huggingface&logoColor=black)
+
+
+---
+
+### ✨ Prompt Engineering & Evaluation
+![LangChain](https://img.shields.io/badge/LangChain-0FA36B?style=flat&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0052CC?style=flat&logo=databricks&logoColor=white)
+
+
+---
+
+### 📦 Deployment & Serving
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+
+---
+
+### ☁️ Cloud 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
+---
+
+### 🧰 Dev & Collaboration Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Cursor](https://img.shields.io/badge/Cursor-3C52D1?style=flat&logo=cursor&logoColor=white)
+
+
+---
+
+### 📊 **GitHub Stats**
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rith-19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=rith-19&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=rith-19&theme=dark&hide_border=false)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rith-19&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 🌍 **Connect With Me**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rithishravi)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rithishkumarravi2@gmail.com) 
+
+---
+
+### 💡 **Fun Fact**
+🧠 I don't always overfit, but when I do... I regularize!
+
+📦 I deploy more frequently than I socialize.  
+
+🤖 My models may hallucinate, but I never do (unless it’s 3AM and I’m still debugging).  
+
+---
+
+### 📢 **Want to Collaborate?**
+If you're passionate about **Data Science, AI, or ML**, let's connect and work on something amazing! 🚀  
