@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rithish R</h1>
-<h3 align="center">🤖 AI/ML Engineer | Just Another Human Training Robots to Replace Me</h3>
+<h3 align="center">🤖 AI/ML Engineer | Just Another Human Training Robots to Replace Myself</h3>
 
 
 
