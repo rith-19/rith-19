@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rithish R</h1>
-<h3 align="center">🤖 AI/ML Engineer | Just Another Human Training Robots to Replace Myself</h3>
+<h3 align="center">🤖🧑‍💻 AI/ML Engineer | Just Another Human Training Robots to Replace Myself</h3>
 
 
 
@@ -121,20 +121,17 @@
 
 ---
 
-### 🌍 **Connect With Me**
+### 📨 **Connect With Me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rithishravi)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rithishkumarravi2@gmail.com) 
 
 ---
 
 ### 💡 **Fun Fact**
-🧠 I don't always overfit, but when I do... I regularize!
 
-📦 I deploy more frequently than I socialize.  
-
-🤖 My models may hallucinate, but I never do (unless it’s 3AM and I’m still debugging).  
+🧑‍💻⚙️📦🚀 I deploy more frequently than I socialize and my models may hallucinate, but I never do (unless it’s 3AM and I’m still debugging).  
 
 ---
 
-### 📢 **Want to Collaborate?**
+### 📢📭 **Want to Collaborate?**
 If you're passionate about **Data Science, AI, or ML**, let's connect and work on something amazing! 🚀  
