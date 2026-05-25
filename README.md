@@ -102,12 +102,7 @@
 
 ---
 ### 📊 **GitHub Stats**
-##![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rith-19&layout=donut&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=rith-19&theme=dark&hide_border=false&include_all_commits=true&count_private=true#&layout=compact)
-
-
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=rith-19&theme=default&show_icons=true&hide_border=true&count_private=true" alt="rith-19's GitHub Stats" />
 
 
 
