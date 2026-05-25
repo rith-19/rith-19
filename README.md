@@ -102,7 +102,10 @@
 
 ---
 ### 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rith-19&theme=default&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=rith-19)
+![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=rith-19&type=languages)
+![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=rith-19&type=contributions)
+![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=rith-19&type=top-repos)
 
 
 
