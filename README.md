@@ -102,8 +102,7 @@
 
 ---
 ### 📊 **GitHub Stats**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rith-19&layout=donut&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=rith-19&theme=dark&hide_border=false&include_all_commits=true&count_private=true#&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rith-19)](https://github.com/rith-19/github-readme-stats)
 
 
 
@@ -124,6 +123,11 @@
 ### 📨 **Connect With Me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=Linkedin&logoColor=white)](https://linkedin.com/in/rithishravi)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rithishkumarravi2@gmail.com) 
+
+
+##![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rith-19&layout=donut&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=rith-19&theme=dark&hide_border=false&include_all_commits=true&count_private=true#&layout=compact)
+
 
 ---
 
