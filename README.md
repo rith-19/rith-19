@@ -102,10 +102,10 @@
 
 ---
 ### 📊 **GitHub Stats**
-![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=rith-19)
-![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=rith-19&type=languages)
-![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=rith-19&type=contributions)
-![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=rith-19&type=top-repos)
+![rith-19's GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=rith-19&theme=dark&chart=bars)
+![rith-19's Language stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=rith-19&type=languages&theme=dark&chart=bars)
+![rith-19's Contribution stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=rith-19&type=contributions&theme=dark)
+![rith-19's Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=rith-19&type=top-repos&theme=dark)
 
 
 
