@@ -102,7 +102,7 @@
 
 ---
 ### 📊 **GitHub Stats**
-![rith-19's GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=rith-19&theme=dark&chart=bars)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=rith-19&rank_icon=percentile&custom_title=My%20Github%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=rith-19&rank_icon=percentile&custom_title=My%20Github%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight)
 ![rith-19's Language stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=rith-19&type=languages&theme=dark&chart=bars)
 ![rith-19's Contribution stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=rith-19&type=contributions&theme=dark)
 ![rith-19's Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=rith-19&type=top-repos&theme=dark)
