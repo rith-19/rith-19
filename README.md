@@ -109,8 +109,6 @@
 ![rith-19's Contribution stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=rith-19&type=contributions&theme=dark)
 ![rith-19's Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=rith-19&type=top-repos&theme=dark)
 
-### 📊 **GitHub Activity**
-[![Rith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rith-19&theme=dracula)](https://github.com/rith-19/github-readme-activity-graph)
 
 
 
