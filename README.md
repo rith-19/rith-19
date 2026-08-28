@@ -108,6 +108,7 @@
 ![rith-19's Language stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=rith-19&type=languages&theme=dark&chart=bars)
 ![rith-19's Contribution stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=rith-19&type=contributions&theme=dark)
 ![rith-19's Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=rith-19&type=top-repos&theme=dark)
+[![Rith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/rith-19&bg_color=293036&color=ffffff&line=9effa0&point=f9a476&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
